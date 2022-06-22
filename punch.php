@@ -1,7 +1,7 @@
 <?php
 $payload = uniqid();
 $date = date("Y-m-d\TH:i:sP");
-$hook = "https://bsmp-creditclan.heroku.com/hook.php";
+$hook = "https://bsmp-creditclan.herokuapp.com/hook.php";
 $inputXML = NULL;
 $replaceHook = true;
 
