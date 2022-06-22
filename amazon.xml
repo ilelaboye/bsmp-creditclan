@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.024/cXML.dtd">
+<cXML payloadID="1655886741823.408.2138@amazon.com" timestamp="2022-06-22T08:32:21.831Z">
+    <Header>
+        <From>
+            <Credential domain="DUNS">
+                <Identity>128990368</Identity>
+            </Credential>
+            <Credential domain="NetworkId">
+                <Identity>Amazon</Identity>
+            </Credential>
+        </From>
+        <To>
+            <Credential domain="NetworkId">
+                <Identity>P__L5184d_PO_System</Identity>
+            </Credential>
+        </To>
+        <Sender>
+            <Credential domain="DUNS">
+                <Identity>128990368</Identity>
+            </Credential>
+            <Credential domain="NetworkId">
+                <Identity>Amazon</Identity>
+            </Credential>
+            <UserAgent>Amazon LLC eProcurement Application</UserAgent>
+        </Sender>
+    </Header>
+    <Message>
+        <PunchOutOrderMessage>
+            <BuyerCookie>62b2cb5bc4eba</BuyerCookie>
+            <PunchOutOrderMessageHeader operationAllowed="create">
+                <Total>
+                    <Money currency="USD">248.80</Money>
+                </Total>
+                <Shipping>
+                    <Money currency="USD">102.86</Money>
+                    <Description xml:lang="en-US">Cost of shipping, not including shipping tax.</Description>
+                </Shipping>
+                <Tax>
+                    <Money currency="USD">0.00</Money>
+                    <Description xml:lang="en-US">Cost of tax, including shipping tax.</Description>
+                </Tax>
+            </PunchOutOrderMessageHeader>
+            <ItemIn quantity="1">
+                <ItemID>
+                    <SupplierPartID>B0773ZY26F</SupplierPartID>
+                    <SupplierPartAuxiliaryID>146-0541449-5671909,1</SupplierPartAuxiliaryID>
+                </ItemID>
+                <ItemDetail>
+                    <UnitPrice>
+                        <Money currency="USD">118.03</Money>
+                    </UnitPrice>
+                    <Description xml:lang="en-US">Sceptre 24" Professional Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)</Description>
+                    <UnitOfMeasure>EA</UnitOfMeasure>
+                    <Classification domain="UNSPSC">43211900</Classification>
+                    <ManufacturerPartID>E248W-19203R</ManufacturerPartID>
+                    <ManufacturerName>Sceptre</ManufacturerName>
+                    <Extrinsic name="soldBy">Amazon</Extrinsic>
+                    <Extrinsic name="fulfilledBy">Amazon</Extrinsic>
+                    <Extrinsic name="category">CONSUMER_ELECTRONICS</Extrinsic>
+                    <Extrinsic name="subCategory">MONITOR</Extrinsic>
+                    <Extrinsic name="itemCondition">New</Extrinsic>
+                    <Extrinsic name="qualifiedOffer">true</Extrinsic>
+                    <Extrinsic name="UPC">UPC-788115233338</Extrinsic>
+                    <Extrinsic name="detailPageURL">https://www.amazon.com/dp/B0773ZY26F</Extrinsic>
+                    <Extrinsic name="ean">0792343323037</Extrinsic>
+                    <Extrinsic name="preference">default</Extrinsic>
+                </ItemDetail>
+                <Shipping>
+                    <Money currency="USD">48.35</Money>
+                    <Description xml:lang="en-US">Cost of shipping, not including shipping tax.</Description>
+                </Shipping>
+                <Tax>
+                    <Money currency="USD">0.00</Money>
+                    <Description xml:lang="en-US">Cost of tax, including shipping tax.</Description>
+                </Tax>
+            </ItemIn>
+            <ItemIn quantity="1">
+                <ItemID>
+                    <SupplierPartID>B0773ZY26F</SupplierPartID>
+                    <SupplierPartAuxiliaryID>146-0541449-5671909,2</SupplierPartAuxiliaryID>
+                </ItemID>
+                <ItemDetail>
+                    <UnitPrice>
+                        <Money currency="USD">118.03</Money>
+                    </UnitPrice>
+                    <Description xml:lang="en-US">Sceptre 24" Professional Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)</Description>
+                    <UnitOfMeasure>EA</UnitOfMeasure>
+                    <Classification domain="UNSPSC">43211900</Classification>
+                    <ManufacturerPartID>E248W-19203R</ManufacturerPartID>
+                    <ManufacturerName>Sceptre</ManufacturerName>
+                    <Extrinsic name="soldBy">Amazon</Extrinsic>
+                    <Extrinsic name="fulfilledBy">Amazon</Extrinsic>
+                    <Extrinsic name="category">CONSUMER_ELECTRONICS</Extrinsic>
+                    <Extrinsic name="subCategory">MONITOR</Extrinsic>
+                    <Extrinsic name="itemCondition">New</Extrinsic>
+                    <Extrinsic name="qualifiedOffer">true</Extrinsic>
+                    <Extrinsic name="UPC">UPC-788115233338</Extrinsic>
+                    <Extrinsic name="detailPageURL">https://www.amazon.com/dp/B0773ZY26F</Extrinsic>
+                    <Extrinsic name="ean">0792343323037</Extrinsic>
+                    <Extrinsic name="preference">default</Extrinsic>
+                </ItemDetail>
+                <Shipping>
+                    <Money currency="USD">48.35</Money>
+                    <Description xml:lang="en-US">Cost of shipping, not including shipping tax.</Description>
+                </Shipping>
+                <Tax>
+                    <Money currency="USD">0.00</Money>
+                    <Description xml:lang="en-US">Cost of tax, including shipping tax.</Description>
+                </Tax>
+            </ItemIn>
+            <ItemIn quantity="1">
+                <ItemID>
+                    <SupplierPartID>B089NP5J98</SupplierPartID>
+                    <SupplierPartAuxiliaryID>146-0541449-5671909,3</SupplierPartAuxiliaryID>
+                </ItemID>
+                <ItemDetail>
+                    <UnitPrice>
+                        <Money currency="USD">12.74</Money>
+                    </UnitPrice>
+                    <Description xml:lang="en-US">DisplayPort to HDMI Adapter 2 Pack, Benfei DP Display Port to HDMI Converter Male to Female Gold-Plated Cord Compatible for Lenovo Dell HP and Other Brand</Description>
+                    <UnitOfMeasure>EA</UnitOfMeasure>
+                    <Classification domain="UNSPSC">43211600</Classification>
+                    <ManufacturerPartID>000095black-2pcs</ManufacturerPartID>
+                    <ManufacturerName>BENFEI</ManufacturerName>
+                    <Extrinsic name="soldBy">shenzhen benfei trade ltd,</Extrinsic>
+                    <Extrinsic name="fulfilledBy">Amazon</Extrinsic>
+                    <Extrinsic name="category">OFFICE_PRODUCTS</Extrinsic>
+                    <Extrinsic name="subCategory">GENERAL_OFFICE_SUPPLIES</Extrinsic>
+                    <Extrinsic name="itemCondition">New</Extrinsic>
+                    <Extrinsic name="qualifiedOffer">true</Extrinsic>
+                    <Extrinsic name="UPC">NA</Extrinsic>
+                    <Extrinsic name="detailPageURL">https://www.amazon.com/dp/B089NP5J98</Extrinsic>
+                    <Extrinsic name="ean">6971785941823</Extrinsic>
+                    <Extrinsic name="preference">default</Extrinsic>
+                </ItemDetail>
+                <Shipping>
+                    <Money currency="USD">6.16</Money>
+                    <Description xml:lang="en-US">Cost of shipping, not including shipping tax.</Description>
+                </Shipping>
+                <Tax>
+                    <Money currency="USD">0.00</Money>
+                    <Description xml:lang="en-US">Cost of tax, including shipping tax.</Description>
+                </Tax>
+            </ItemIn>
+        </PunchOutOrderMessage>
+    </Message>
+</cXML>
